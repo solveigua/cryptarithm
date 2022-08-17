@@ -1,1 +1,3 @@
 # cryptarithm
+
+Solves cryptarithm puzzle.
